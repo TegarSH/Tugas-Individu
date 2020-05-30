@@ -1,0 +1,45 @@
+body{
+	background-color:#f9f9f9;
+	font-size:16px
+	color:#444;
+	font-family: sans-serif;
+}
+ 
+.content{
+	width: 80%;
+	margin: 10px auto;
+}
+ 
+/*header*/
+header{
+	background-color: white;
+	padding: 20px 10px;
+	border-radius: 5px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 10px;
+}
+ 
+header h2.judul,
+header h3.deskripsi{
+	text-align: center;	
+}
+ 
+div.badan{
+	background-color: white;
+	border-radius: 5px;
+    border: 1px solid #f0f0f0;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: sans-serif;
+	padding: 30px 20px;	
+}
+div.tabel, tr, td{
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
+ 
+div.page{
+	text-align: center;
+	padding: 30px 20px;	
+}
