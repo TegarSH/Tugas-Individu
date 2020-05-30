@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="Greeting Application" Height="450" Width="600">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="119" Margin="191,6,0,0" VerticalAlignment="Top" Width="213" Source="greeting.png"/>
+        <Label Content="Select a Message Option" HorizontalAlignment="Left" Margin="191,182,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.346,2.846" FontSize="18" FontWeight="Bold"/>
+        <RadioButton x:Name="RadioButton1" Content="Good Luck" HorizontalAlignment="Left" Margin="116,251,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <RadioButton x:Name="RadioButton2" Content="Happy Birthday" HorizontalAlignment="Left" Margin="371,254,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Button Content="DISPLAY" HorizontalAlignment="Left" Margin="261,288,0,0" VerticalAlignment="Top" Width="75" FontSize="16" FontWeight="Bold" Click="Button_Click"/>
+
+    </Grid>
+</Window>
