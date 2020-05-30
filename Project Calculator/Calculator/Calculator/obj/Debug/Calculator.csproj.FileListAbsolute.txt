@@ -1,0 +1,22 @@
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\PROJECT KALKULATOR\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
